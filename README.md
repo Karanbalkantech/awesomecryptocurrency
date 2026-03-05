@@ -127,6 +127,7 @@ Original Reference -> https://github.com/cmahon/awesome-cryptocurrency
 * [Bitcoinity](http://bitcoinity.org/markets)
 * [BitinfoCharts](https://bitinfocharts.com/)
 * [Bitnodes](https://bitnodes.21.co/)
+* [ChartScout](https://chartscout.io/)
 * [Coinmarketcap](http://coinmarketcap.com/)
 * [Coin Dance](https://coin.dance/)
 * [Cryptocoin Charts](http://www.cryptocoincharts.info/)
